@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main2() {
+int main5() {
 
     FILE* file;
     const int bufferLength = 255;
